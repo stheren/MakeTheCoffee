@@ -1,0 +1,58 @@
+{
+	"Type":{
+		"1" : "DELETE",
+		"2" : "RESTART",
+		"3" : "LEFT",
+		"4" : "RIGHT",
+		"5" : "FORWARD",
+		"6" : "BACKWARD"
+	},
+	"Exemple":{
+		"Click":{
+			"Parfum":"DELETE",
+			"Click":0
+		},
+		"PressedAndRelease":{
+			"Parfum":"DELETE",
+			"Pressed":0,
+			"Release":65
+		}
+	},
+	"Bean":[
+		{
+			"Parfum":"DELETE",
+			"Start":0,
+			"JustPressed":true
+		},
+		{"Parfum":"DELETE","Start":0,"Stop":65,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true},
+		{"Parfum":"DELETE","Start":0,"Stop":0,"JustPressed":true}
+	]
+}
