@@ -1,9 +1,3 @@
 # MakeTheCoffee
  
- Ceci est un test
-
-## Test
-
-### Other
-
-#### Encore
+Pour ce projet il faut de l'ambition
