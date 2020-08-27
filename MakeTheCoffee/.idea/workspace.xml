@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../MakeTheCoffeeKt/src/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IOOdirectMonitoring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MakeTheCoffeeKt" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -48,18 +47,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.CoffeeMaker">
     <configuration name="CoffeeGrinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -115,10 +102,11 @@
     </state>
     <state x="1319" y="586" key="#com.intellij.ide.util.MemberChooser/-3840.0.3009.1728/3840.0.3072.1728/0.0.3009.1728@0.0.3009.1728" timestamp="1592921179179" />
     <state x="1319" y="586" key="#com.intellij.ide.util.MemberChooser/3840.0.3009.1728/0.0.3009.1728/-3840.0.3072.1728@0.0.3009.1728" timestamp="1592995011717" />
-    <state x="1504" y="549" key="FileChooserDialogImpl" timestamp="1592994215307">
-      <screen x="0" y="0" width="3009" height="1728" />
+    <state x="1504" y="549" key="FileChooserDialogImpl" timestamp="1598467689601">
+      <screen x="0" y="0" width="3010" height="1728" />
     </state>
     <state x="1504" y="549" key="FileChooserDialogImpl/-3840.0.3009.1728/3840.0.3072.1728/0.0.3009.1728@0.0.3009.1728" timestamp="1592942177451" />
+    <state x="1504" y="549" key="FileChooserDialogImpl/-3840.0.3010.1728/3840.0.3072.1728/0.0.3010.1728@0.0.3010.1728" timestamp="1598467689601" />
     <state x="1504" y="549" key="FileChooserDialogImpl/3840.0.3009.1728/0.0.3009.1728/-3840.0.3072.1728@0.0.3009.1728" timestamp="1592994215307" />
     <state width="1759" height="448" key="GridCell.Tab.0.bottom" timestamp="1593037322694">
       <screen x="0" y="0" width="3009" height="1728" />
